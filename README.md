@@ -1,9 +1,3 @@
-## Installation
-
-```
-composer require @naveldev/excel
-```
-
 ## ✨ Features
 
 - **Easily export collections to Excel.** Supercharge your Laravel collections and export them directly to an Excel or CSV document. Exporting has never been so easy.
