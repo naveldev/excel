@@ -14,6 +14,8 @@ composer require @naveldev/excel
 
 - **Export Blade views.** Want to have a custom layout in your spreadsheet? Use a HTML table in a Blade view and export that to Excel.
 
-## :mailbox_with_mail: License & Postcardware
+## :mailbox_with_mail: License
 
 Laravel Excel is created with love and care by Spartner (formerly known as Maatwebsite) to give back to the Laravel community. It is completely free (MIT license) to use.
+
+This is a sub-repo of the official package, [which can be found here](https://github.com/maatwebsite/Laravel-Excel). This repository makes some minor adjustments to make this package up to my likings.
